@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name BLM18PG600SN1D)(type Legacy)(uri "C:/Users/junmo/OneDrive - kcg.ac.jp/BACKUP/esp32/UARTtoBluetoothSerial/sch/lib/BLM18PG600SN1D/BLM18PG600SN1D.lib")(options "")(descr ""))
+  (lib (name FEMTOSMDC010F-02)(type Legacy)(uri "C:/Users/junmo/OneDrive - kcg.ac.jp/BACKUP/esp32/UARTtoBluetoothSerial/sch/lib/FEMTOSMDC010F-2/FEMTOSMDC010F-2.lib")(options "")(descr ""))
+  (lib (name MF-NSMF035X-2)(type Legacy)(uri "C:/Users/junmo/OneDrive - kcg.ac.jp/BACKUP/esp32/UARTtoBluetoothSerial/sch/lib/LIB_MF-NSMF035X-2/MF-NSMF035X-2.lib")(options "")(descr ""))
+  (lib (name RSX101VAM30TR)(type Legacy)(uri "C:/Users/junmo/OneDrive - kcg.ac.jp/BACKUP/esp32/UARTtoBluetoothSerial/sch/lib/RSX101VAM30TR/RSX101VAM30TR.lib")(options "")(descr ""))
+  (lib (name SKRPACE010)(type Legacy)(uri "C:/Users/junmo/OneDrive - kcg.ac.jp/BACKUP/esp32/UARTtoBluetoothSerial/sch/lib/SKRPACE010/SKRPACE010.lib")(options "")(descr ""))
+  (lib (name SSSS212901)(type Legacy)(uri "C:/Users/junmo/OneDrive - kcg.ac.jp/BACKUP/esp32/UARTtoBluetoothSerial/sch/lib/SSSS212901/SSSS212901.lib")(options "")(descr ""))
+  (lib (name NJM12888F33-TE1)(type Legacy)(uri "C:/Users/junmo/OneDrive - kcg.ac.jp/BACKUP/esp32/UARTtoBluetoothSerial/sch/lib/NJM12888F33-TE1/NJM12888F33-TE1.lib")(options "")(descr ""))
+  (lib (name UARTtoBluetoothSerial-rescue)(type Legacy)(uri ${KIPRJMOD}/UARTtoBluetoothSerial-rescue.lib)(options "")(descr ""))
+)

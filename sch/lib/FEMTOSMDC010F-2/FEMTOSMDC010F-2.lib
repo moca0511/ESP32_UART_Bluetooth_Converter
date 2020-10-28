@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# FEMTOSMDC010F-2
+#
+DEF FEMTOSMDC010F-2 TH 0 40 N N 1 L N
+F0 "TH" -200 150 50 H V L BNN
+F1 "FEMTOSMDC010F-2" 0 0 50 H I L BNN
+F2 "FEMTOSMDC010F-2" 0 0 50 H I L BNN
+F3 "TE Connectivity / Raychem" 0 0 50 H I L BNN
+F4 "Good" 0 0 50 H I L BNN
+F5 "None" 0 0 50 H I L BNN
+F6 "0603 TE Connectivity / Raychem" 0 0 50 H I L BNN
+F7 "FEMTOSMDC010F-2" 0 0 50 H I L BNN
+F8 "Polymeric PTC Resettable Fuse 12V 100mA Ih Surface Mount 0603 (1608 Metric), Concave" 0 0 50 H I L BNN
+F9 "https://pricing.snapeda.com/search/part/FEMTOSMDC010F-2/?ref=eda" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -100 -35 100 -35 N
+P 2 0 0 10 100 35 -100 35 N
+P 2 0 0 10 100 -35 100 35 N
+P 2 0 0 10 -100 -35 -100 35 N
+P 2 0 0 10 -200 100 200 100 N
+P 2 0 0 10 200 100 200 -100 N
+P 2 0 0 10 200 -100 -200 -100 N
+P 2 0 0 10 -200 -100 -200 100 N
+X ~ 1 -300 0 200 R 40 40 0 0 B 
+X ~ 2 300 0 200 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

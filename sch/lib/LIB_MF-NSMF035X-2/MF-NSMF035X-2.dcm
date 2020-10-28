@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MF-NSMF035X-2
+D Resettable Fuses - PPTC 20A 16V .30ohm Hold .35 Trip .75
+K
+F https://www.bourns.com/docs/Product-Datasheets/mfnsmf.pdf
+$ENDCMP
+#
+#End Doc Library
