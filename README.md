@@ -24,7 +24,7 @@ teraterm等のターミナルソフトで仮想COMポートを開いて通信開始。
 ![circuit](./pic/circuit.png "circuit")
 
 ### ファームウェア書き込み方法
-秋月電子の[超小型ＵＳＢシリアル変換モジュール](https://akizukidenshi.com/catalog/g/gM-08461/)のようなモジュールを用いて、PCとマイコンボードを接続する。
+秋月電子の[超小型ＵＳＢシリアル変換モジュール](https://akizukidenshi.com/catalog/g/gM-08461/)のようなモジュールを用いて、PCと本体を接続する。
 
 BOOTボタンを押しながらRESETボタンを押し、ファームウェア書き込みモードに移行する。
 
